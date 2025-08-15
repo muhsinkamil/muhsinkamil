@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js & Nuxt**
 
-- 💬 Ask me about **React, JavaScript and TypeScript**
+- 💬 Ask me about **React, JavaScript and TypeScript or lyf**
 
 - 📫 How to reach me **muhsinwahab@gmail.com**
 
