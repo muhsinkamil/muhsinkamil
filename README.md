@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Muhsin Kamil</h1>
-<h3 align="center">Software engineer working with JavaScript and constantly learning others</h3>
+<h1 align="center">Hey 👋, I'm Muhsin</h1>
+<h3 align="center">Engineering with JavaScript</h3>
 
 - 🔭 I’m currently working on [Amplication](https://github.com/amplication/amplication)
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **React, JavaScript and TypeScript**
 
 - 📫 How to reach me **muhsinwahab@gmail.com**
-
-- ⚡ Fun fact: **I am a regular developer as I don't hesitate to start a new side project before finishing a current one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
